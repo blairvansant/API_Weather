@@ -1,0 +1,20 @@
+body {
+  text-align: center; }
+  body h1 {
+    color: darkblue;
+    text-align: center; }
+
+.search-bar {
+  width: 50%;
+  background-color: lightblue;
+  text-align: center; }
+
+#output img {
+  height: 100px;
+  width: 100px;
+  margin: 5px;
+  display: inline-block;
+  border-radius: 100%; }
+
+#clicky-button {
+  margin-top: 15px; }
